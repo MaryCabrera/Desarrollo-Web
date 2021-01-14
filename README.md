@@ -4,7 +4,7 @@ En este curso, mejoraremos la accesibilidad un portafolio personal. Espero que a
 prácticas accesibles en tu propio portafolio!
 
 Usa esta URL para probar la accesibilidad con Lighthouse al principio del curso:
-https://gmzjuliana.github.io/curso-acessibilidad-web/index.html
+https://marycabrera.github.io/Desarrollo-Web/index.html
 
 Usa esta URL para probar la accesibilidad al final:
-https://gmzjuliana.github.io/curso-acessibilidad-web/final.html
+https://marycabrera.github.io/Desarrollo-Web/final.html
